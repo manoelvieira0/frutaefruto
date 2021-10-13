@@ -1,0 +1,8 @@
+.cabecalho{
+    align-items: center;/*Alinha os itens ao centro.*/
+    background: #f9f9f9; /*Torna o elemento um flex container automaticamente transformando todos os seus filhos diretos em flex itens.*/ 
+    display: flex; /*Torna o elemento um flex container automaticamente transformando todos os seus filhos diretos em flex itens.*/
+    justify-content: space-between; /*Cria um espaçamento igual entre os elementos. Mantendo o primeiro grudado no início e o último no final.*/
+    padding-left: 2rem;
+    padding-right: 2rem;
+}
