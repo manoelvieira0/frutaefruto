@@ -1,0 +1,12 @@
+.banner__titulo{
+    color: #fdfdfd;
+    font-family: Pacifico, cursive;
+    font-size: 5.065rem;
+    position: absolute; /*de modo que a posição do texto seja absoluta na tela*/
+    left: 50%; /*para termos o alinhamento à esquerda da tela, centralizando o texto*/
+    text-shadow: 0 4px 4px rgba(0, 0, 0, 0.75); /*para definirmos a sombra com uma cor preta mais clara*/
+    top: 50%; /*para definirmos o alinhamento ao topo*/
+    text-align: center; /*para que o elemento do texto sempre esteja centralizado*/
+    transform: translate(-50%, -50%); /*para transladarmos o título, onde o primeiro valor é referente ao eixo X e o segundo ao eixo Y*/
+    width: 100%; 
+}
