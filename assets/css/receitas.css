@@ -1,0 +1,7 @@
+.receitas{
+    background: #e5e5e5;
+    display: flex; /*para que os elementos fiquem alinhados um ao lado do outro*/
+    flex-wrap: wrap; /*para quebrarmos automaticamente os elementos em linhas conforme a tela é diminuida*/
+    padding: 5rem 0 0 5rem;
+    
+}
